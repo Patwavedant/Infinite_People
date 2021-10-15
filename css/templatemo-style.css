@@ -598,7 +598,8 @@ header .social-icon li a {
   }
   
   .solution-list {
-	grid-template-columns: repeat(auto-fit, 200px) !important;
+  grid-template-columns: repeat(auto-fit, 150px) !important;
+  grid-gap: 10px !important;;
   }
 }
 
