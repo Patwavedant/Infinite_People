@@ -5084,7 +5084,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 @media (min-width:768px) {
     .navbar-header {
-        float: left
+        float: left;
+        height: 70px;
     }
 }
 
@@ -5490,7 +5491,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: #333;
+    color: #9900cc;
     background-color: transparent
 }
 
